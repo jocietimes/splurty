@@ -1,24 +1,19 @@
-# README
+# Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Splurty displays a random movie quote pulled from a database of user-submitted quotes.
+  
+  
+[View the deployed application](https://splurty-jocelyn-mellein.herokuapp.com/)
+___
 
-Things you may want to cover:
+### Features:
+- Built using Ruby on Rails
+- Booptstrap4 for CSS and components
+- PostgreSQL database
+- Modal used for quote submissions
+- Validation for form inputs
+- Simple Form gem for form generation
+- Quotes load randomly upon page refresh
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+___
+### Screenshot:
